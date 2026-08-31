@@ -979,3 +979,8 @@ Error: Create ID2D1Bitmap1 from dxgi surface failed.
 2026/08/29 17:17:49.191: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/08/29 17:23:16.045: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/08/29 17:23:16.045: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/08/30 13:36:36.260: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/08/30 13:36:36.260: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/08/30 14:26:03.363: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/08/31 08:39:25.972: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/08/31 08:39:25.972: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
