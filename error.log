@@ -993,3 +993,20 @@ Error: Create ID2D1Bitmap1 from dxgi surface failed.
 2026/09/01 12:14:28.388: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
 2026/09/01 12:27:55.338: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/01 12:27:55.338: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/01 17:24:36.317: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/09/01 20:35:08.099: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/01 20:35:08.130: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/01 22:21:14.426: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/01 22:21:14.426: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/02 08:03:50.861: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/02 08:03:50.861: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/02 11:52:01.604: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/09/02 11:59:45.547: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/02 11:59:51.547: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/02 13:37:50.457: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/02 13:37:50.457: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/02 17:30:23.419: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/09/02 22:32:16.034: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/02 22:32:16.034: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/03 08:37:59.716: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/03 08:37:59.716: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
