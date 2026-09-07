@@ -47753,3 +47753,6 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/06 19:52:17.509: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/09/07 08:39:05.961: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/07 08:39:05.961: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/07 08:54:13.657: 检测到历史流量数据丢失，当前记录个数：1，已从备份文件恢复52条记录。
+2026/09/07 08:54:14.798: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/07 08:54:14.798: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
