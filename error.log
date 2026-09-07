@@ -47751,3 +47751,5 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/05 11:52:34.250: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/09/06 19:52:17.509: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/06 19:52:17.509: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/07 08:39:05.961: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/07 08:39:05.961: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
