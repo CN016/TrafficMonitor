@@ -47758,3 +47758,8 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/07 08:54:14.798: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/09/08 08:38:59.766: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/08 08:38:59.766: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/08 14:32:37.749: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/09/08 15:13:50.024: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/08 15:13:56.034: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/09 08:36:41.239: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/09 08:36:41.239: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
