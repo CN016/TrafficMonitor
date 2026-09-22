@@ -47851,3 +47851,8 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/22 08:26:01.197: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/09/22 08:39:04.799: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/22 08:39:04.799: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/22 08:44:22.286: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/22 08:44:22.286: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/22 08:48:40.761: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/22 08:48:40.761: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/22 13:48:05.744: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
