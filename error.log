@@ -47763,3 +47763,91 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/08 15:13:56.034: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
 2026/09/09 08:36:41.239: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/09 08:36:41.239: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/10 08:26:58.147: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/10 08:26:58.163: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/11 08:36:31.205: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/11 08:36:31.205: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/12 13:44:30.280: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/12 13:44:30.280: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/13 19:57:56.325: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/13 19:57:56.325: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/15 16:17:44.710: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/15 16:17:44.710: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/16 08:46:24.525: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/16 08:46:24.525: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/16 17:44:35.761: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/16 17:44:35.761: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/16 18:21:35.917: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/16 18:21:35.917: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/16 19:45:22.751: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/16 19:45:22.751: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/16 22:11:07.248: 用于储存连接信息的缓冲区大小不够，已重新初始化连接。(已重新初始化1次)
+2026/09/16 23:09:58.549: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/16 23:10:01.547: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/17 09:51:19.296: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/17 09:51:19.296: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/17 09:52:27.329: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/17 09:52:30.306: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/17 09:57:54.401: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/17 09:57:57.418: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化4次)
+2026/09/17 09:58:30.423: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化5次)
+2026/09/17 09:59:06.419: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化6次)
+2026/09/17 09:59:30.431: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化7次)
+2026/09/17 09:59:57.428: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化8次)
+2026/09/17 10:00:24.439: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化9次)
+2026/09/17 10:00:30.424: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化10次)
+2026/09/17 10:00:33.439: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化11次)
+2026/09/17 10:00:36.448: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化12次)
+2026/09/17 10:01:06.450: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化13次)
+2026/09/17 10:02:03.433: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化14次)
+2026/09/17 10:09:29.521: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化15次)
+2026/09/17 10:09:32.513: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化16次)
+2026/09/17 11:58:21.512: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化17次)
+2026/09/17 12:35:03.511: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化18次)
+2026/09/17 12:42:08.908: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化19次)
+2026/09/17 12:42:14.890: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化20次)
+2026/09/17 12:42:20.932: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化21次)
+2026/09/17 12:43:14.891: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化22次)
+2026/09/17 12:43:27.901: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化23次)
+2026/09/17 12:43:30.886: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化24次)
+2026/09/17 12:47:57.894: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化25次)
+2026/09/17 12:48:00.907: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化26次)
+2026/09/17 13:01:51.919: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化27次)
+2026/09/17 13:02:45.896: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化28次)
+2026/09/17 14:55:42.469: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化29次)
+2026/09/17 14:56:39.436: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化30次)
+2026/09/17 14:56:57.447: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化31次)
+2026/09/17 14:57:51.456: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化32次)
+2026/09/17 15:01:42.530: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化33次)
+2026/09/17 15:33:40.590: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化34次)
+2026/09/17 15:42:07.297: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/17 15:42:07.297: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/17 15:43:37.412: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/17 15:44:30.422: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/17 15:55:45.530: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/17 16:42:41.703: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化4次)
+2026/09/17 16:59:01.575: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化5次)
+2026/09/17 16:59:04.581: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化6次)
+2026/09/17 17:57:49.798: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化7次)
+2026/09/17 17:57:55.813: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化8次)
+2026/09/17 18:40:05.909: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化9次)
+2026/09/17 21:24:28.520: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/17 21:24:28.520: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/17 22:14:57.862: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/17 22:14:57.862: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/18 08:39:12.784: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/18 08:39:12.784: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/19 11:49:54.288: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/19 11:49:54.288: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/20 08:21:34.603: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/20 08:21:34.603: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/20 09:26:52.799: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/20 09:26:52.799: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/20 15:19:49.478: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/20 15:19:52.479: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/21 08:42:04.618: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/21 08:42:04.618: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/22 08:26:01.197: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/22 08:26:01.197: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/22 08:39:04.799: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/22 08:39:04.799: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
