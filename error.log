@@ -47858,3 +47858,51 @@ Last compiled date: 2026/03/29 16:53:47
 2026/09/22 13:48:05.744: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
 2026/09/23 08:38:21.528: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/09/23 08:38:21.528: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/23 09:15:12.979: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/23 09:15:12.979: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/23 09:19:24.091: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/23 09:19:30.079: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/23 22:40:46.271: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/23 22:40:46.271: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/24 07:29:19.957: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/24 07:29:19.957: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/24 09:26:31.137: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/24 09:26:37.132: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/24 11:02:48.675: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/09/24 12:04:07.919: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/09/24 12:04:07.919: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/09/24 12:12:22.932: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/09/24 12:12:28.919: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/09/24 13:55:41.123: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/10/02 23:08:40.604: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/02 23:08:40.604: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/02 23:29:01.066: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/02 23:29:01.066: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/05 23:41:40.540: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/05 23:41:40.540: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/07 11:35:56.687: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/07 11:35:56.687: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/07 13:28:22.760: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/07 13:28:22.760: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/08 08:06:00.223: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/08 08:06:00.223: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/08 08:55:47.531: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/08 08:55:47.531: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/08 12:29:47.722: HResult:-2003238900
+2026/10/08 12:29:47.724: At file: "D:\\Projects\\GithubProjects\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 1722.
+Error: Call ID2D1RenderTarget::EndDraw() failed.
+2026/10/08 12:29:47.962: HResult:-2005270523
+2026/10/08 12:29:47.962: At file: "D:\\Projects\\GithubProjects\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 1989.
+Error: Get DC from IDXGISurface1 failed.
+2026/10/08 12:29:49.253: HResult:-2005270523
+2026/10/08 12:29:49.253: At file: "D:\\Projects\\GithubProjects\\TrafficMonitor\\TrafficMonitor\\TaskBarDlgDrawCommon.cpp" | line: 729.
+Error: Create ID2D1Bitmap1 from dxgi surface failed.
+2026/10/08 12:29:49.255: Handling device loss. HResult = DXGI_ERROR_DEVICE_REMOVED: The graphics device has been physically removed, turned off, or a driver upgrade has occurred. 
+2026/10/08 12:29:49.255: Notice: The D2D1 device will be recreated. This message is sent by the function on the next line:
+2026/10/08 12:29:49.255: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateD2D1Device(const long)
+2026/10/08 12:29:49.256: Notice: D3D10.1 device is invalid. All devices will be recreated. This message is sent by the function on the next line:
+2026/10/08 12:29:49.256: bool __cdecl CTaskBarDlgDrawCommonSupport::IsAllDevicesRecreatedByThisFunction(void)
+2026/10/08 12:29:49.256: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/08 12:29:49.256: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/08 12:56:47.939: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/08 12:56:47.939: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
