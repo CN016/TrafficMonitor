@@ -47997,3 +47997,11 @@ Error: Create ID2D1Bitmap1 from dxgi surface failed.
 2026/10/27 08:34:17.987: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/10/27 09:29:30.071: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
 2026/10/27 09:29:36.077: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/10/27 11:46:08.987: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/27 11:46:08.987: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/10/27 11:46:54.873: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/10/27 11:47:00.883: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/10/27 11:55:31.410: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/10/27 16:04:01.401: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化4次)
+2026/10/28 08:28:46.521: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/10/28 08:28:46.521: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
