@@ -48029,3 +48029,28 @@ Error: Create ID2D1Bitmap1 from dxgi surface failed.
 2026/11/04 22:18:40.068: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
 2026/11/05 08:22:24.181: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/11/05 08:22:24.181: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/05 12:56:13.925: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/11/05 12:56:19.900: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/11/05 23:09:24.604: 检测到历史流量数据丢失，当前记录个数：1，已从备份文件恢复100条记录。
+2026/11/05 23:09:25.823: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/05 23:09:25.823: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/05 23:10:40.776: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/11/05 23:10:46.826: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/11/05 23:13:57.534: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/11/06 08:19:59.723: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/06 08:19:59.723: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/06 16:05:53.666: 检测到历史流量数据丢失，当前记录个数：1，已从备份文件恢复101条记录。
+2026/11/06 16:05:54.807: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/06 16:05:54.807: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/06 16:10:27.942: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/11/06 16:10:33.952: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/11/06 16:19:52.587: 检测到历史流量数据丢失，当前记录个数：1，已从备份文件恢复101条记录。
+2026/11/06 16:19:53.697: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/06 16:19:53.697: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/06 16:20:42.664: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化1次)
+2026/11/06 16:20:45.658: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化2次)
+2026/11/06 18:29:21.328: 可能出现了异常，当前选择的连接和期望的连接不一致，已重新获取连接。(已重新初始化3次)
+2026/11/07 00:48:34.696: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/07 00:48:34.696: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/07 17:38:58.504: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/07 17:38:58.504: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
