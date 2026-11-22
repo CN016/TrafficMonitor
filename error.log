@@ -48111,3 +48111,5 @@ Error: Create ID2D1Bitmap1 from dxgi surface failed.
 2026/11/21 12:25:28.282: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
 2026/11/21 19:28:07.701: Notice: All devices will be recreated. This message is sent by the function on the next line:
 2026/11/21 19:28:07.701: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
+2026/11/22 14:01:55.337: Notice: All devices will be recreated. This message is sent by the function on the next line:
+2026/11/22 14:01:55.337: void __cdecl CTaskBarDlgDrawCommonSupport::RecreateAll(void)
